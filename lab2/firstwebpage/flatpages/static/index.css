@@ -1,0 +1,52 @@
+body {
+    background: #1abc9c;
+    font-family: Tahoma, Arial, sans-serif;
+    color: #333;
+}
+
+h1 {
+    font-family: 'Georgia', 'Times New Roman', serif;
+    margin-top: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+
+}
+
+p,
+h4 {
+    font-size: 20px;
+    margin-bottom: 0;
+}
+
+h4 {
+    font-size: 18px;
+
+    font-weight: bold;
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+
+ul,
+ol {
+    margin: 0;
+}
+
+table tr td {
+    padding: 5px;
+    border: 1px solid #333;
+}
+
+table tr th {
+    padding: 5px;
+    border: 1px solid #333;
+    background-color: #0a9575;
+    color: white;
+}
+
+img {
+    height: 30px;
+    width: auto;
+}
